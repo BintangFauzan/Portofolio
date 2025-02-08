@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import { AiFillTwitterCircle, AiFillLinkedin, AiFillYoutube, AiFillInstagram, AiFillGithub, AiFillAudio } from 'react-icons/ai';
+import { AiFillTwitterCircle, AiFillLinkedin, AiFillYoutube, AiFillInstagram, AiFillGithub, AiFillAudio, AiFillChrome } from 'react-icons/ai';
 import { BsFillMoonStarsFill } from 'react-icons/bs';
 import { useState } from 'react';
 import deved from '../public/Profil.jpg';
@@ -9,7 +9,7 @@ import consulting from '../public/consulting.png';
 import Image from 'next/image';
 import web1 from '../public/Perpustakaan.png';
 import web2 from '../public/TTS.jpeg';
-import web3 from '../public/web3.png';
+import web3 from '../public/Letter.png';
 import web4 from '../public/web4.png';
 import web5 from '../public/web5.png';
 import web6 from '../public/web6.png';
@@ -138,6 +138,20 @@ export default function Home() {
                   <p className="text-gray-700 dark:text-gray-300">Membuat Sistem Text To Speech Bahasa Minang Dengan Menggunakan Metode VITS</p>
                   <a href="https://colab.research.google.com/drive/1w1lDT_ATJM7PbIguZyUb-k1RBzJa8X3u?usp=sharing" className="mt-4 inline-block bg-blue-500 dark:bg-blue-700 text-white font-bold py-2 px-4 rounded">
                     <AiFillAudio />
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="basis-1/3 flex-1">
+              <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white dark:bg-gray-800">
+                <a href="https://github.com/BintangFauzan/UAS_PEMWEB_02">
+                  <Image className="rounded-lg object-cover" width={'100%'} height={'100%'} layout="responsive" src={web3} />
+                </a>
+                <div className="p-4">
+                  <h2 className="text-lg font-bold text-gray-900 dark:text-white">Making A Game</h2>
+                  <p className="text-gray-700 dark:text-gray-300">Membuat Game RPG 2D Dengan Menggunakan RPG Maker MV</p>
+                  <a href="https://bintangfauzan.github.io/The-Letter/" className="mt-4 inline-block bg-blue-500 dark:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                    <AiFillChrome />
                   </a>
                 </div>
               </div>
