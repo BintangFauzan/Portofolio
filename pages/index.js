@@ -13,6 +13,7 @@ import webInventori from "../public/Web Invetori.png";
 import webCuaca from "../public/Vite + React - Google Chrome 5_8_2025 4_38_31 PM.png";
 import webInventoriBarangReact from "../public/Web Inventori Barang React.png";
 import webFood from "../public/Web Food Order.png";
+import ArusDana from "../public/Arus_dana_2.png"
 import IconGithub from "./components/PartComponents/IconGithub";
 
 export default function Home() {
@@ -34,7 +35,7 @@ export default function Home() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                  href="https://drive.google.com/file/d/1tIBrScUWI50wm2DfmUAQYfZ52L3ljIyt/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1bKeMw5O4PU0AqeyT5vrOgDlgriGYbpVi/view?usp=drive_link"
                 >
                   Resume
                 </a>
@@ -188,6 +189,19 @@ export default function Home() {
             >
               <IconGithub href={"https://github.com/BintangFauzan/Food-Order-React-Frontend"}/>
               <IconGithub href={"https://github.com/BintangFauzan/Food-Order-Backend-With-Laravel-12"}/>
+            </MyProject>
+            <MyProject
+              src={ArusDana}
+              h2={
+                "Aplikasi android bernama Arus Dana dibuat dengan React Native"
+              }
+              p={
+                `
+                Aplikasi ini berfokus pada kesederhanaan sambil menyediakan fitur-fitur canggih seperti pelacakan pengeluaran berbantuan AI dan analisis finansial secara real-time. Ini telah menjadi pengalaman belajar yang luar biasa dalam membangun aplikasi mobile yang siap produksi dengan praktik React Native modern.
+                `
+              }
+            >
+              <IconGithub href={"https://github.com/BintangFauzan/Arus-Dana"}/>
             </MyProject>
           </div>
         </section>
