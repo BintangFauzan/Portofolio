@@ -13,9 +13,10 @@ import webInventori from "../public/Web Invetori.png";
 import webCuaca from "../public/Vite + React - Google Chrome 5_8_2025 4_38_31 PM.png";
 import webInventoriBarangReact from "../public/Web Inventori Barang React.png";
 import webFood from "../public/Web Food Order.png";
-import ArusDana from "../public/Arus_dana_2.png"
+import ArusDana from "../public/Arus_dana_2.png";
 import IconGithub from "./components/PartComponents/IconGithub";
-
+import spmb from "../public/spmb.png";
+import RilisProject from "./components/RilisProject";
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
 
@@ -80,16 +81,16 @@ export default function Home() {
           <div>
             <h3 className="text-3xl py-1 dark:text-white ">Project</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Sebagai lulusan Teknik Informatika, saya sangat antusias untuk
-              memulai perjalanan profesional saya di dunia teknologi. Meskipun
-              saya belum memiliki pengalaman kerja formal, saya telah terlibat
-              dalam berbagai proyek akademis dan pribadi yang memungkinkan saya
-              untuk mengembangkan keterampilan dalam pengembangan perangkat
-              lunak, pemrograman, dan analisis sistem. Saya berkomitmen untuk
-              terus belajar dan beradaptasi dengan teknologi terbaru, serta siap
-              untuk berkontribusi dalam proyek-proyek yang menantang. Saya
-              percaya bahwa dengan semangat dan dedikasi, saya dapat memberikan
-              nilai tambah bagi tim dan perusahaan yang saya bergabung.
+              Ini adalah beberapa project yang sudah rilis saya kerjakan.
+            </p>
+          </div>
+          <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
+            <RilisProject />
+          </div>
+          <div>
+            <h3 className="text-3xl py-1 dark:text-white ">Project</h3>
+            <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
+              Project mandiri yang saya kerjakan
             </p>
           </div>
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
@@ -187,21 +188,27 @@ export default function Home() {
                 "Usaha yang bergerak dibidang makanan terutama pesan antar dapat menggunakan web ini karna sudah memiliki API yang rapi dan terintegrasi dengan baik customer dapat langsung memesan makanan dan pesanan dengan cepat langsung akan masuk ke admin. web sudah sangat intuitif dan responsive untuk semua gadget"
               }
             >
-              <IconGithub href={"https://github.com/BintangFauzan/Food-Order-React-Frontend"}/>
-              <IconGithub href={"https://github.com/BintangFauzan/Food-Order-Backend-With-Laravel-12"}/>
+              <IconGithub
+                href={
+                  "https://github.com/BintangFauzan/Food-Order-React-Frontend"
+                }
+              />
+              <IconGithub
+                href={
+                  "https://github.com/BintangFauzan/Food-Order-Backend-With-Laravel-12"
+                }
+              />
             </MyProject>
             <MyProject
               src={ArusDana}
               h2={
                 "Aplikasi android bernama Arus Dana dibuat dengan React Native"
               }
-              p={
-                `
+              p={`
                 Aplikasi ini berfokus pada kesederhanaan sambil menyediakan fitur-fitur canggih seperti pelacakan pengeluaran berbantuan AI dan analisis finansial secara real-time. Ini telah menjadi pengalaman belajar yang luar biasa dalam membangun aplikasi mobile yang siap produksi dengan praktik React Native modern.
-                `
-              }
+                `}
             >
-              <IconGithub href={"https://github.com/BintangFauzan/Arus-Dana"}/>
+              <IconGithub href={"https://github.com/BintangFauzan/Arus-Dana"} />
             </MyProject>
           </div>
         </section>
