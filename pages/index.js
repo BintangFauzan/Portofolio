@@ -6,17 +6,11 @@ import IconChrome from "./components/PartComponents/IconChrome";
 import MyProject from "./components/MyProject";
 import deved from "../public/Profil.jpg";
 import Image from "next/image";
-import web1 from "../public/Perpustakaan.png";
-import web2 from "../public/TTS.jpeg";
-import web3 from "../public/Letter.png";
-import webInventori from "../public/Web Invetori.png";
-import webCuaca from "../public/Vite + React - Google Chrome 5_8_2025 4_38_31 PM.png";
-import webInventoriBarangReact from "../public/Web Inventori Barang React.png";
-import webFood from "../public/Web Food Order.png";
-import ArusDana from "../public/Arus_dana_2.png";
+
 import IconGithub from "./components/PartComponents/IconGithub";
 import spmb from "../public/spmb.png";
 import RilisProject from "./components/RilisProject";
+import ProjectMandiri from "./components/ProjectMandiri";
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
 
@@ -93,124 +87,7 @@ export default function Home() {
               Project mandiri yang saya kerjakan
             </p>
           </div>
-          <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
-            <MyProject
-              src={web1}
-              h2={"Perpustakaan Digital"}
-              p={
-                "Membuat sistem perpustakaan dengan Vue sebagai front end dan php sebagai backend nya"
-              }
-            >
-              <IconGithub
-                href={"https://github.com/BintangFauzan/UAS_PEMWEB_02"}
-              />
-            </MyProject>
-            <MyProject
-              src={web2}
-              h2={"Text To Speech Bahasa Minang"}
-              p={
-                "Membuat Sistem Text To Speech Bahasa Minang Dengan Menggunakan Metode VITS"
-              }
-              hrefGithub={
-                "https://colab.research.google.com/drive/1VrueknvZBkWUxxGbbLEdcZ8yZZjkCEg7#scrollTo=TSkVk0MpUGpi"
-              }
-            >
-              <IconChrome
-                href={
-                  "https://colab.research.google.com/drive/1w1lDT_ATJM7PbIguZyUb-k1RBzJa8X3u?usp=sharing"
-                }
-              />
-              <IconGithub
-                href={
-                  "https://colab.research.google.com/drive/1VrueknvZBkWUxxGbbLEdcZ8yZZjkCEg7#scrollTo=TSkVk0MpUGpi"
-                }
-              />
-            </MyProject>
-            <MyProject
-              src={web3}
-              h2={"Making A Game"}
-              p={"Membuat Game RPG 2D Dengan Menggunakan RPG Maker MV"}
-              hrefGithub={"https://github.com/BintangFauzan/Inventori"}
-            >
-              <IconChrome
-                href={"https://bintangfauzan.github.io/The-Letter/"}
-              />
-              <IconGithub
-                href={"https://github.com/BintangFauzan/The-Letter"}
-              />
-            </MyProject>
-            <MyProject
-              src={webInventori}
-              h2={"Web inventori"}
-              href={"https://github.com/BintangFauzan/The-Letter"}
-              p={
-                "'Membuat web inventori barang dengan menggunakna laravel 11, ' +\n" +
-                "                    'web sudah memiliki fungsi login serta logika untuk perhitungan penambahan barang"
-              }
-            >
-              <IconGithub src={"https://github.com/BintangFauzan/Inventori"} />
-            </MyProject>
-            <MyProject
-              src={webCuaca}
-              h2={"Web Perkiraan Cuaca Dengan React"}
-              p={
-                "Membuat Web Perkiraan Cuaca Dengan React dimana sudah terhubung dengan API dari https://www.weatherapi.com/" +
-                "API akan berakhir pada 9 mei 2025"
-              }
-            >
-              <IconGithub
-                href={"https://github.com/BintangFauzan/React-Weather"}
-              />
-              <IconChrome
-                href={"https://perkiraan-cuaca-by-bintang.netlify.app/"}
-              />
-            </MyProject>
-            <MyProject
-              src={webInventoriBarangReact}
-              h2={
-                "Web inventori Barang React dengan laravel 11 sebagai backend"
-              }
-              p={
-                "Membuat Web inventori barang menggunakan react di frontend dan backend menggunakan laravel 11," +
-                "Dimana API sudah bisa untuk tambah, edit, hapus"
-              }
-            >
-              <IconGithub
-                href={"https://github.com/BintangFauzan/Inventori-Barang-React"}
-              />
-            </MyProject>
-            <MyProject
-              src={webFood}
-              h2={
-                "Web pesan antar makanan dibuat dengan menggunakan React dan Laravel 12"
-              }
-              p={
-                "Usaha yang bergerak dibidang makanan terutama pesan antar dapat menggunakan web ini karna sudah memiliki API yang rapi dan terintegrasi dengan baik customer dapat langsung memesan makanan dan pesanan dengan cepat langsung akan masuk ke admin. web sudah sangat intuitif dan responsive untuk semua gadget"
-              }
-            >
-              <IconGithub
-                href={
-                  "https://github.com/BintangFauzan/Food-Order-React-Frontend"
-                }
-              />
-              <IconGithub
-                href={
-                  "https://github.com/BintangFauzan/Food-Order-Backend-With-Laravel-12"
-                }
-              />
-            </MyProject>
-            <MyProject
-              src={ArusDana}
-              h2={
-                "Aplikasi android bernama Arus Dana dibuat dengan React Native"
-              }
-              p={`
-                Aplikasi ini berfokus pada kesederhanaan sambil menyediakan fitur-fitur canggih seperti pelacakan pengeluaran berbantuan AI dan analisis finansial secara real-time. Ini telah menjadi pengalaman belajar yang luar biasa dalam membangun aplikasi mobile yang siap produksi dengan praktik React Native modern.
-                `}
-            >
-              <IconGithub href={"https://github.com/BintangFauzan/Arus-Dana"} />
-            </MyProject>
-          </div>
+          <ProjectMandiri />
         </section>
       </main>
     </div>
