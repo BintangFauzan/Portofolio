@@ -56,7 +56,7 @@ export default function RilisProject({}) {
           rel="noopener noreferrer"
           className="text-cyan-600 dark:text-cyan-400 hover:text-blue-700 transition duration-200 font-semibold flex items-center gap-1"
         >
-          Live Demo →
+          Live →
         </a>
       </MyProject>
       {/* Rospa*/}
@@ -113,7 +113,7 @@ export default function RilisProject({}) {
           rel="noopener noreferrer"
           className="text-cyan-600 dark:text-cyan-400 hover:text-blue-700 transition duration-200 font-semibold flex items-center gap-1"
         >
-          Live Demo →
+          Live →
         </a>
       </MyProject>
       {/* Simela*/}
@@ -206,6 +206,14 @@ export default function RilisProject({}) {
           href={"https://github.com/BintangFauzan/Survey-360"}
           margin={"mb-5 ml-5"}
         />
+        <a
+          href={"https://survey360.generasiumatterbaik.com/login"}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-cyan-600 dark:text-cyan-400 hover:text-blue-700 transition duration-200 font-semibold flex items-center gap-1"
+        >
+          Live →
+        </a>
       </MyProject>
     </>
   );
