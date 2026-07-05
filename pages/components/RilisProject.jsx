@@ -11,7 +11,7 @@ export default function RilisProject({}) {
       {/* SPMB*/}
       <MyProject
         src={spmb}
-        h2={"Web SIMELA - Manajemen Sekolah Multi-Kampus"}
+        h2={"Web SPMB - Pendaftaran Sekolah Khoirul Ummah"}
         p={
           <>
             <strong className="text-gray-900 dark:text-white">
