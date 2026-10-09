@@ -1,0 +1,497 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - navigation [ref=e6]:
+      - link "Tentang" [ref=e7] [cursor=pointer]:
+        - /url: "#about"
+      - link "Pengalaman" [ref=e8] [cursor=pointer]:
+        - /url: "#experience"
+      - link "Proyek" [ref=e9] [cursor=pointer]:
+        - /url: "#projects"
+      - link "Skills" [ref=e10] [cursor=pointer]:
+        - /url: "#skills"
+      - link "Kontak" [ref=e11] [cursor=pointer]:
+        - /url: "#contact"
+  - main [ref=e12]:
+    - generic [ref=e13]:
+      - generic: PEKANBARU · RIAU · INDONESIA
+      - generic: "2026"
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - paragraph [ref=e18]: JUNIOR FULL STACK WEBSITE DEVELOPER
+            - heading "TAUFIK RAHMAN ALSADIQ" [level=1] [ref=e19]:
+              - generic [ref=e20]: TAUFIK RAHMAN
+              - generic [ref=e21]: ALSADIQ
+            - paragraph [ref=e22]: INFORMATICS ENGINEERING
+          - paragraph [ref=e24]: Mahasiswa Teknik Informatika yang senang bekerja bersama tim maupun mandiri. Rasa ingin tahu yang tinggi membuat saya terus beradaptasi dengan teknologi dan cara kerja baru.
+          - generic [ref=e25]:
+            - button "CV & Resume" [ref=e27] [cursor=pointer]
+            - link "HUBUNGI SAYA" [ref=e34] [cursor=pointer]:
+              - /url: "#contact"
+        - img "Taufik Rahman Alsadiq" [ref=e38]
+    - generic [ref=e60]:
+      - generic [ref=e61]: about
+      - generic [ref=e63]:
+        - heading "Tentang Saya" [level=2] [ref=e65]
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - heading "Rekayasa Web & Problem Solving" [level=3] [ref=e68]
+            - generic [ref=e69]:
+              - paragraph [ref=e70]:
+                - text: Sebagai mahasiswa Teknik Informatika, ketertarikan saya berpusat pada eksplorasi
+                - emphasis [ref=e71]: tech stack
+                - text: modern dan rekayasa perangkat lunak. Selama kurang lebih 2 tahun, saya mendalami pembuatan struktur website yang terorganisir dari
+                - emphasis [ref=e72]: framework
+                - text: andalan seperti
+                - strong [ref=e73]: Laravel
+                - text: ","
+                - strong [ref=e74]: Next.js
+                - text: ", dan"
+                - strong [ref=e75]: Tailwind CSS
+                - text: . Fokus utama saya bukan untuk sekadar membuat tampilan visual yang menarik, melainkan membangun sistem informasi yang fungsional dan menggunakan basis data yang efisien.
+              - paragraph [ref=e76]:
+                - text: Bagi saya, setiap baris kode yang ditulis merupakan proses
+                - emphasis [ref=e77]: problem-solving
+                - text: . Saya senang menganalisis berbagai tantangan teknis mulai dari memastikan skema
+                - emphasis [ref=e78]: database
+                - text: yang dibangun terstruktur, memvalidasi form input agar menghasilkan data yang akurat demi memenuhi alur bisnis (
+                - emphasis [ref=e79]: flow
+                - text: ) dari
+                - emphasis [ref=e80]: client
+                - text: ", serta menyusun"
+                - emphasis [ref=e81]: clean code
+                - text: yang rapi dan mematuhi standar agar mudah di-maintain untuk jangka panjang.
+              - paragraph [ref=e82]:
+                - text: Selain berfokus pada
+                - emphasis [ref=e83]: web development
+                - text: ", saya juga terus memperluas wawasan ke ranah pengembangan sistem berbasis IoT serta pembuatan aplikasi mobile Android sederhana. Kemampuan adaptasi dan kemauan belajar mandiri yang tinggi menjadi fondasi utama saya dalam menghadapi perkembangan teknologi yang dinamis."
+              - paragraph [ref=e84]:
+                - text: Di luar lingkungan perkuliahan, saya aktif menerima tawaran
+                - emphasis [ref=e85]: freelance
+                - text: dan terlibat dalam berbagai project kolaboratif. Pengalaman-pengalaman tersebut melatih saya untuk terbiasa bekerja di bawah tenggat waktu (
+                - emphasis [ref=e86]: deadline
+                - text: ), berinteraksi langsung dengan kebutuhan pengguna (
+                - emphasis [ref=e87]: user requirements
+                - text: ), dan terus menjaga komitmen terhadap hasil kerja yang berkualitas tinggi.
+          - generic [ref=e88]:
+            - img "Taufik Rahman Alsadiq" [ref=e90] [cursor=pointer]
+            - generic [ref=e91]:
+              - generic [ref=e92]: profil singkat
+              - generic [ref=e93]:
+                - generic [ref=e94]:
+                  - generic [ref=e95]: pendidikan
+                  - generic [ref=e96]: s1 teknik informatika (sem. 6)
+                - generic [ref=e97]:
+                  - generic [ref=e98]: ipk kumulatif
+                  - generic [ref=e99]: 3.70 / 4.00
+                - generic [ref=e100]:
+                  - generic [ref=e101]: pekerjaan
+                  - generic [ref=e102]: freelance developer
+                - generic [ref=e103]:
+                  - generic [ref=e104]: peran utama
+                  - generic [ref=e105]: fullstack website developer
+                - generic [ref=e106]:
+                  - generic [ref=e107]: status
+                  - generic [ref=e108]: magang
+    - generic [ref=e133]:
+      - generic [ref=e134]: experience
+      - generic [ref=e136]:
+        - heading "Pengalaman Kerja" [level=2] [ref=e138]
+        - generic [ref=e139]:
+          - generic [ref=e140]:
+            - generic [ref=e146]:
+              - generic [ref=e147]:
+                - generic [ref=e148]: Freelance Developer
+                - heading "Kerja Lepas" [level=3] [ref=e149]
+              - generic [ref=e150]: 2024 - Sekarang
+            - list [ref=e151]:
+              - listitem [ref=e152]:
+                - generic [ref=e154]: Menerima dan menyelesaikan masalah client terkait pengembangan website, aplikasi, dan sistem berbasis web maupun mobile.
+              - listitem [ref=e155]:
+                - generic [ref=e157]: Menyelesaikan tugas-tugas pemrograman (joki) terstruktur untuk mahasiswa dan profesional
+              - listitem [ref=e158]:
+                - generic [ref=e160]: Membangun relasi yang baik dengan klien dari berbagai latar belakang untuk menerjemahkan kebutuhan bisnis ke dalam solusi teknis.
+            - generic [ref=e161]:
+              - link "chat whatsapp" [ref=e162] [cursor=pointer]:
+                - /url: https://wa.me/6285185714385
+              - link "instagram" [ref=e165] [cursor=pointer]:
+                - /url: https://instagram.com/mywebsite.lens
+          - generic [ref=e169]:
+            - generic [ref=e174]:
+              - generic [ref=e175]:
+                - generic [ref=e176]: Pengembang Website
+                - heading "Website Desa Rantau Bertuah, Riau" [level=3] [ref=e177]
+              - generic [ref=e178]: "2025"
+            - list [ref=e179]:
+              - listitem [ref=e180]:
+                - generic [ref=e182]: Membangun portal informasi publik dan sistem administrasi desa untuk digitalisasi pelayanan warga Rantau Bertuah.
+              - listitem [ref=e183]:
+                - generic [ref=e185]: Mengimplementasikan desain web responsif menggunakan Next.js dan Tailwind CSS untuk kemudahan akses via perangkat mobile.
+              - listitem [ref=e186]:
+                - generic [ref=e188]: Membantu meningkatkan transparansi data anggaran desa serta penyajian berita berkala untuk masyarakat luas.
+          - generic [ref=e189]:
+            - generic [ref=e193]:
+              - generic [ref=e194]:
+                - generic [ref=e195]: Pengembang Aplikasi Mobile
+                - heading "Sistem Inventory Minimarket (Project Tim — 17k Dev Team)" [level=3] [ref=e196]
+              - generic [ref=e197]: "2025"
+            - list [ref=e198]:
+              - listitem [ref=e199]:
+                - generic [ref=e201]: Mengembangkan aplikasi mobile Android native menggunakan Kotlin untuk pencatatan stok masuk dan keluar secara real-time bersama 17k Dev Team.
+              - listitem [ref=e202]:
+                - generic [ref=e204]: Merancang sistem pencarian manual cerdas berbasis nama, kategori, atau kode unik karena sistem ini dirancang tanpa menggunakan barcode sama sekali.
+              - listitem [ref=e205]:
+                - generic [ref=e207]: Membangun fitur laporan keuangan dan neraca kasir otomatis harian serta bulanan guna memantau margin profit, perputaran modal, dan kerugian barang secara instan.
+          - generic [ref=e208]:
+            - generic [ref=e212]:
+              - generic [ref=e213]:
+                - generic [ref=e214]: Pengembangan AI Local berbasis Chat (Project Pribadi)
+                - heading [level=3]
+              - generic [ref=e215]: 2025 - Sekarang
+            - list [ref=e216]:
+              - listitem [ref=e217]:
+                - generic [ref=e219]: Mengembangkan Assisten Articial Intelligence (AI) berbasis Chat yang dapat diandroid
+              - listitem [ref=e220]:
+                - generic [ref=e222]: Mengintegrasikan sistem memori kontekstual untuk otomatisasi tugas kuliah, penjadwalan harian, dan alur kerja pemrograman secara cerdas.
+              - listitem [ref=e223]:
+                - generic [ref=e225]: Memanfaatkan ekosistem AI terpersonalisasi untuk menciptakan asisten produktivitas interaktif yang adaptif terhadap rutinitas user.
+          - generic [ref=e226]:
+            - generic [ref=e231]:
+              - generic [ref=e232]:
+                - generic [ref=e233]: Mengembangkan Sebuah Website Desa Lubuk Terentang
+                - heading "Pengembangan Website Desa" [level=3] [ref=e234]
+              - generic [ref=e235]: "2026"
+            - list [ref=e236]:
+              - listitem [ref=e237]:
+                - generic [ref=e239]: Membuat Prototype untuk website desa Lubuk Terentang untuk Profil Desa
+              - listitem [ref=e240]:
+                - generic [ref=e242]: Menghosting Website Agar terintegrasi dan bisa diakses secara online
+              - listitem [ref=e243]:
+                - generic [ref=e245]: Merancang Desain website yang responsif dengan desain yang menarik dan mudah digunakan oleh masyarakat desa
+            - link "kunjungi" [ref=e247] [cursor=pointer]:
+              - /url: https://www.lubukterentang.web.id/
+          - generic [ref=e251]:
+            - generic [ref=e255]:
+              - generic [ref=e256]:
+                - generic [ref=e257]: Pengembangan Game Indie
+                - heading "Lone Knight (Project Solo)" [level=3] [ref=e258]
+              - generic [ref=e259]: 2026 - Sekarang
+            - list [ref=e260]:
+              - listitem [ref=e261]:
+                - generic [ref=e263]: Mengembangkan Game Indie 2D Pixel art dengan Genre RPG
+              - listitem [ref=e264]:
+                - generic [ref=e266]: Membuat Visual dan Logic serta mengurus berbagai keperluan Assets dari Game
+              - listitem [ref=e267]:
+                - generic [ref=e269]: Belajar dan Mengimplementasikan Beberapa Logic untuk menciptakan Game interaktif dan menarik
+            - link "kunjungi" [ref=e271] [cursor=pointer]:
+              - /url: https://mylendevspace.my.id
+    - generic [ref=e296]:
+      - generic [ref=e297]: github repositories
+      - generic [ref=e299]:
+        - generic [ref=e300]:
+          - generic [ref=e301]:
+            - generic [ref=e302]: 03 KARYA & REPOSITORI
+            - heading "GitHub Repositories" [level=2] [ref=e303]
+            - paragraph [ref=e308]: koleksi repositori & proyek terbuka
+          - link "@CodenameMylen" [ref=e309] [cursor=pointer]:
+            - /url: https://github.com/CodenameMylen?tab=repositories
+        - generic [ref=e318]:
+          - img "CodenameMylen" [ref=e320]
+          - generic [ref=e321]:
+            - generic [ref=e322]: CodenameMylen ( Taufik Rahman Alsadiq)
+            - link "https://github.com/CodenameMylen" [ref=e323] [cursor=pointer]:
+              - /url: https://github.com/CodenameMylen
+        - generic [ref=e324]:
+          - generic [ref=e325]:
+            - generic [ref=e326]:
+              - generic [ref=e327]:
+                - generic [ref=e328]: lone-knight
+                - generic [ref=e335]: private
+              - paragraph [ref=e336]: Game 2D top-down action RPG pixel art mandiri dengan Godot Engine & Aseprite.
+              - generic [ref=e337]:
+                - generic [ref=e338]: Godot Engine
+                - generic [ref=e339]: GDScript
+                - generic [ref=e340]: Aseprite
+                - generic [ref=e341]: Pixel Art
+            - generic [ref=e342]:
+              - generic [ref=e343]:
+                - generic [ref=e344]: GDScript
+                - generic [ref=e347]: Game Dev
+              - generic [ref=e348]:
+                - button "preview" [ref=e349] [cursor=pointer]
+                - link "live site" [ref=e354] [cursor=pointer]:
+                  - /url: https://mylendevspace.my.id/games/lone-knight
+          - generic [ref=e360]:
+            - generic [ref=e361]:
+              - generic [ref=e362]:
+                - generic [ref=e363]: escape-game-maze
+                - generic [ref=e370]: Public
+              - paragraph [ref=e371]: Game labirin interaktif berbasis GUI Java Swing & algoritma penyelesaian maze.
+              - generic [ref=e372]:
+                - generic [ref=e373]: Java
+                - generic [ref=e374]: Swing
+                - generic [ref=e375]: Maze Algorithm
+                - generic [ref=e376]: UMRI
+            - generic [ref=e377]:
+              - generic [ref=e378]:
+                - generic [ref=e379]: Java
+                - generic [ref=e382]: Game Dev
+              - generic [ref=e383]:
+                - button "preview" [ref=e384] [cursor=pointer]
+                - link "repo ↗" [ref=e389] [cursor=pointer]:
+                  - /url: https://github.com/CodenameMylen/escape-game-maze
+          - generic [ref=e396]:
+            - generic [ref=e397]:
+              - generic [ref=e398]:
+                - generic [ref=e399]: minimarket-inventory
+                - generic [ref=e406]: Public
+              - paragraph [ref=e407]: Aplikasi Android manajemen stok minimarket & pembukuan otomatis tanpa barcode.
+              - generic [ref=e408]:
+                - generic [ref=e409]: Kotlin
+                - generic [ref=e410]: Android SDK
+                - generic [ref=e411]: SQLite
+                - generic [ref=e412]: 17k Dev
+            - generic [ref=e413]:
+              - generic [ref=e414]:
+                - generic [ref=e415]: Kotlin
+                - generic [ref=e418]: Mobile App
+              - link "repo ↗" [ref=e420] [cursor=pointer]:
+                - /url: https://github.com/CodenameMylen/minimarket-inventory
+          - generic [ref=e427]:
+            - generic [ref=e428]:
+              - generic [ref=e429]:
+                - generic [ref=e430]: web-desa
+                - generic [ref=e437]: Private
+              - paragraph [ref=e442]: Portal layanan administrasi kependudukan & transparansi informasi publik desa.
+              - generic [ref=e443]:
+                - generic [ref=e444]: HTML
+                - generic [ref=e445]: CSS
+                - generic [ref=e446]: Bootstrap
+                - generic [ref=e447]: JavaScript
+            - generic [ref=e448]:
+              - generic [ref=e449]:
+                - generic [ref=e450]: JavaScript
+                - generic [ref=e453]: Web Dev
+              - button "preview" [ref=e455] [cursor=pointer]
+          - generic [ref=e460]:
+            - generic [ref=e461]:
+              - generic [ref=e462]:
+                - generic [ref=e463]: jokiditopik
+                - generic [ref=e470]: Public
+              - paragraph [ref=e471]: Platform layanan pembuatan website modern, aplikasi mobile, dan otomatisasi kustom.
+              - generic [ref=e472]:
+                - generic [ref=e473]: Next.js
+                - generic [ref=e474]: Tailwind CSS
+                - generic [ref=e475]: TypeScript
+                - generic [ref=e476]: Figma
+            - generic [ref=e477]:
+              - generic [ref=e478]:
+                - generic [ref=e479]: TypeScript
+                - generic [ref=e482]: Web Dev
+              - link "live site" [ref=e484] [cursor=pointer]:
+                - /url: https://www.jokiditopik.web.id
+          - generic [ref=e490]:
+            - generic [ref=e491]:
+              - generic [ref=e492]:
+                - generic [ref=e493]: luskianna-ai
+                - generic [ref=e500]: Private
+              - paragraph [ref=e505]: AI personal agent & sistem asisten cerdas untuk otomatisasi produktivitas harian.
+              - generic [ref=e506]:
+                - generic [ref=e507]: Python
+                - generic [ref=e508]: AI Agent Core
+                - generic [ref=e509]: Automation
+            - generic [ref=e511]:
+              - generic [ref=e512]: Python
+              - generic [ref=e515]: Tools
+        - link "Buka GitHub" [ref=e517] [cursor=pointer]:
+          - /url: https://github.com/CodenameMylen?tab=repositories
+    - generic [ref=e544]:
+      - generic [ref=e545]: skills
+      - generic [ref=e547]:
+        - paragraph [ref=e549]: KEMAMPUAN DAN TOOLS YANG SERING DIGUNAKAN
+        - generic [ref=e551]:
+          - generic [ref=e552]:
+            - generic [ref=e553]: WEB DEVELOPMENT TOOLS
+            - paragraph [ref=e555]: HTML · CSS · JavaScript · PHP · Tailwind CSS · Laravel · React · Vue.js · Vite.js · Next.js · TypeScript
+          - generic [ref=e556]:
+            - generic [ref=e557]: MOBILE DEVELOPMENT TOOLS
+            - paragraph [ref=e559]: Flutter · Kotlin · Dart
+          - generic [ref=e560]:
+            - generic [ref=e561]: GAME DEVELOPMENT TOOLS
+            - paragraph [ref=e563]: Godot Engine · Aseprite ·
+          - generic [ref=e564]:
+            - generic [ref=e565]: OTHER & AGENTIC TOOLS
+            - paragraph [ref=e567]: Claude · Antigravity · Git · Figma · Canva · Katalog Studio · Opencode · Codex · Jules
+    - generic [ref=e589]:
+      - generic [ref=e590]: education
+      - generic [ref=e592]:
+        - generic [ref=e593]:
+          - heading "Riwayat Pendidikan" [level=2] [ref=e594]
+          - paragraph [ref=e595]: latar belakang akademis tingkat universitas
+        - generic [ref=e596]:
+          - generic [ref=e598]:
+            - generic [ref=e604]:
+              - generic [ref=e605]: s1 teknik informatika
+              - heading [level=3] [ref=e606]:
+                - link "Universitas Muhammadiyah Riau" [ref=e607] [cursor=pointer]:
+                  - /url: https://umri.ac.id/
+              - text: pekanbaru, riau, indonesia
+            - generic [ref=e608]:
+              - generic [ref=e609]: 2023 - sekarang
+              - generic [ref=e610]: semester — 6
+          - generic [ref=e612]:
+            - generic [ref=e613]:
+              - generic [ref=e618]:
+                - heading "Grafik IPK Semester" [level=4] [ref=e619]
+                - paragraph [ref=e620]: "tren indeks prestasi semester 1-6 (sem. 6: 3.71)"
+              - generic [ref=e624]:
+                - generic [ref=e625]:
+                  - generic [ref=e626]: ipk (rata-rata)
+                  - generic [ref=e627]:
+                    - generic [ref=e628]: "3.70"
+                    - generic [ref=e629]: / 4.00
+                - link "Unduh" [ref=e630] [cursor=pointer]:
+                  - /url: /resume/Transkrip-Nilai-Taufik-Rahman-Alsadiq.pdf
+            - img [ref=e636]:
+              - generic [ref=e640] [cursor=pointer]:
+                - generic [ref=e643]: "3.42"
+                - generic [ref=e644]: sem. 1
+              - generic [ref=e645] [cursor=pointer]:
+                - generic [ref=e648]: "3.81"
+                - generic [ref=e649]: sem. 2
+              - generic [ref=e650] [cursor=pointer]:
+                - generic [ref=e653]: "3.78"
+                - generic [ref=e654]: sem. 3
+              - generic [ref=e655] [cursor=pointer]:
+                - generic [ref=e658]: "3.70"
+                - generic [ref=e659]: sem. 4
+              - generic [ref=e660] [cursor=pointer]:
+                - generic [ref=e663]: "3.75"
+                - generic [ref=e664]: sem. 5
+              - generic [ref=e665] [cursor=pointer]:
+                - generic [ref=e668]: "3.71"
+                - generic [ref=e669]: sem. 6
+    - generic [ref=e691]:
+      - generic [ref=e692]: certificates
+      - generic [ref=e694]:
+        - generic [ref=e695]:
+          - heading "Sertifikasi & Penghargaan" [level=2] [ref=e696]
+          - paragraph [ref=e697]: bukti kompetensi dan pencapaian akademik/profesional
+        - generic [ref=e698]:
+          - generic [ref=e700] [cursor=pointer]:
+            - generic:
+              - generic:
+                - generic: ANTHROPIC / SKILLJAR
+                - generic: Claude Skilljar Certificate
+                - generic: pdf document (18 files)
+              - generic: Lihat Galeri Sertifikat
+            - generic [ref=e701]:
+              - generic [ref=e702]:
+                - generic [ref=e703]:
+                  - generic [ref=e704]: ANTHROPIC / SKILLJAR
+                  - generic [ref=e708]: "2026"
+                - heading "Claude Skilljar Certificate" [level=3] [ref=e709]
+              - generic [ref=e710]:
+                - generic [ref=e711]: 18 File Sertifikat
+                - generic [ref=e715]: buka galeri →
+          - generic [ref=e717] [cursor=pointer]:
+            - generic:
+              - generic:
+                - img "Cloud Computing Certificate"
+              - generic: Buka Sertifikat
+            - generic [ref=e718]:
+              - generic [ref=e719]:
+                - generic [ref=e720]:
+                  - generic [ref=e721]: BEM FASILKOM UMRI
+                  - generic [ref=e725]: "2025"
+                - heading "Cloud Computing Certificate" [level=3] [ref=e726]
+              - generic [ref=e727]:
+                - generic [ref=e728]: 1 File Sertifikat
+                - generic [ref=e732]: buka sertifikat →
+          - generic [ref=e734] [cursor=pointer]:
+            - generic:
+              - generic:
+                - img "Seminar Nasional Keamanan Data"
+              - generic: Buka Sertifikat
+            - generic [ref=e735]:
+              - generic [ref=e736]:
+                - generic [ref=e737]:
+                  - generic [ref=e738]: BEM FASILKOM UMRI
+                  - generic [ref=e742]: "2024"
+                - heading "Seminar Nasional Keamanan Data" [level=3] [ref=e743]
+              - generic [ref=e744]:
+                - generic [ref=e745]: 1 File Sertifikat
+                - generic [ref=e749]: buka sertifikat →
+          - generic [ref=e751] [cursor=pointer]:
+            - generic:
+              - generic:
+                - img "Seminar Nasional Public Speaking For Work"
+              - generic: Buka Sertifikat
+            - generic [ref=e752]:
+              - generic [ref=e753]:
+                - generic [ref=e754]:
+                  - generic [ref=e755]: BEM FASILKOM UMRI
+                  - generic [ref=e759]: "2024"
+                - heading "Seminar Nasional Public Speaking For Work" [level=3] [ref=e760]
+              - generic [ref=e761]:
+                - generic [ref=e762]: 1 File Sertifikat
+                - generic [ref=e766]: buka sertifikat →
+    - generic [ref=e788]:
+      - generic [ref=e789]: contact
+      - generic [ref=e791]:
+        - generic [ref=e792]:
+          - generic [ref=e793]:
+            - heading "Mari Berkolaborasi membangun ide hebat Anda." [level=2] [ref=e794]
+            - paragraph [ref=e795]: Terbuka untuk kesempatan kerja penuh waktu, project lepas (freelance), kolaborasi software development, atau diskusi teknis. Hubungi saya langsung melalui email atau media sosial.
+          - generic [ref=e796]:
+            - link [ref=e797] [cursor=pointer]:
+              - /url: mailto:workspacetopik@gmail.com
+              - generic [ref=e798]: kirim email ke
+              - generic [ref=e802]: workspacetopik@gmail.com
+            - link [ref=e803] [cursor=pointer]:
+              - /url: https://id.linkedin.com/in/taufik-alsadiq-794540365
+              - generic [ref=e804]: hubungkan profesional
+              - generic [ref=e809]: linkedin.com/in/taufik-alsadiq-794540365
+            - link [ref=e810] [cursor=pointer]:
+              - /url: https://github.com/CodenameMylen
+              - generic [ref=e811]: lihat repositori
+              - generic [ref=e815]: github.com/CodenameMylen
+            - link [ref=e816] [cursor=pointer]:
+              - /url: https://instagram.com/taufikkralsadiq
+              - generic [ref=e817]: ikuti aktivitas
+              - generic [ref=e821]: instagram.com/taufikkralsadiq
+        - generic [ref=e822]:
+          - generic [ref=e823]: contact — form handler
+          - generic [ref=e824]:
+            - generic [ref=e825]:
+              - generic [ref=e826]: nama lengkap
+              - textbox "nama lengkap" [ref=e827]:
+                - /placeholder: nama anda
+            - generic [ref=e828]:
+              - generic [ref=e829]: alamat email
+              - textbox "alamat email" [ref=e830]:
+                - /placeholder: email@domain.com
+            - generic [ref=e831]:
+              - generic [ref=e832]: pesan kolaborasi
+              - textbox "pesan kolaborasi" [ref=e833]:
+                - /placeholder: tulis rencana project atau pesan anda di sini...
+            - button "kirim formulir" [ref=e834] [cursor=pointer]
+  - contentinfo [ref=e838]:
+    - generic [ref=e839]:
+      - generic [ref=e840]:
+        - generic [ref=e841]: © 2026 taufik rahman alsadiq.
+        - generic [ref=e842]: •
+        - generic [ref=e843]: all rights reserved.
+      - generic [ref=e844]:
+        - generic [ref=e845]:
+          - link "LinkedIn Profile" [ref=e846] [cursor=pointer]:
+            - /url: https://id.linkedin.com/in/taufik-alsadiq-794540365
+          - link "GitHub Profile" [ref=e851] [cursor=pointer]:
+            - /url: https://github.com/CodenameMylen
+          - link "Instagram Profile" [ref=e855] [cursor=pointer]:
+            - /url: https://instagram.com/taufikkralsadiq
+          - link "WhatsApp Contact" [ref=e859] [cursor=pointer]:
+            - /url: https://wa.me/6285185714385
+          - link "Email Address" [ref=e862] [cursor=pointer]:
+            - /url: mailto:workspacetopik@gmail.com
+        - button "Scroll to Top" [ref=e866] [cursor=pointer]
