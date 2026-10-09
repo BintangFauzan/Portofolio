@@ -10,10 +10,10 @@ export default function Hero({ waLink }) {
           <span>Pekanbaru, Riau</span> • <span>Fullstack Web Developer</span>
         </div>
         <h2 className="text-4xl md:text-6xl font-extrabold tracking-tight leading-tight">
-          Sistem informasi sekolah & yayasan yang <span className="text-teal-600 dark:text-teal-400">rapi, cepat, dan mudah dipakai</span>.
+          Rapikan pekerjaan manual Anda <span className="text-teal-600 dark:text-teal-400">jadi satu aplikasi</span>.
         </h2>
         <p className="text-lg text-slate-600 dark:text-slate-300 leading-relaxed max-w-2xl">
-          Solusi digital khusus untuk SPMB, manajemen data siswa, sistem sekolah terpadu, hingga pencatatan donasi transparan. Dibangun dengan stack handal untuk instansi Anda.
+          Pendaftaran, pencatatan, laporan, sampai pembayaran bisa dikerjakan lewat satu aplikasi yang dibuat sesuai cara kerja Anda.
         </p>
         <div className="flex flex-wrap gap-4 pt-4">
           <a
@@ -31,22 +31,22 @@ export default function Hero({ waLink }) {
             Lihat Studi Kasus <BsArrowRight />
           </a>
         </div>
-        
+
         {/* Trust numbers */}
-        <div className="grid grid-cols-3 gap-6 pt-8 border-t border-slate-200 dark:border-slate-800">
+        {/* <div className="grid grid-cols-3 gap-6 pt-8 border-t border-slate-200 dark:border-slate-800">
           <div>
             <p className="text-3xl font-extrabold text-teal-600 dark:text-teal-400">4+</p>
-            <p className="text-xs text-slate-500 mt-1">Sistem Sekolah & Yayasan Dirilis</p>
+            <p className="text-xs text-slate-500 mt-1">Aplikasi Sudah Dipakai</p>
           </div>
           <div>
             <p className="text-3xl font-extrabold text-teal-600 dark:text-teal-400">3</p>
-            <p className="text-xs text-slate-500 mt-1">SIMELA Aktif di Sekolah</p>
+            <p className="text-xs text-slate-500 mt-1">Lembaga Memakai Aplikasi Saya</p>
           </div>
           <div>
-            <p className="text-3xl font-extrabold text-teal-600 dark:text-teal-400">100%</p>
-            <p className="text-xs text-slate-500 mt-1">Custom Sesuai Alur Lembaga</p>
+            <p className="text-3xl font-extrabold text-teal-600 dark:text-teal-400">Khusus</p>
+            <p className="text-xs text-slate-500 mt-1">Dibuat Sesuai Cara Kerja Anda</p>
           </div>
-        </div>
+        </div>*/}
       </div>
 
       <div className="lg:col-span-5 flex justify-center">

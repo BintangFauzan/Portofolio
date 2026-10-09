@@ -14,7 +14,7 @@ export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
 
   const waMessage = encodeURIComponent("Halo Bintang, saya ingin berkonsultasi mengenai pembuatan sistem informasi / web app untuk sekolah/yayasan kami.");
-  const waLink = `https://wa.me/62XXXXXXXXXX?text=${waMessage}`;
+  const waLink = `https://wa.me/6288271186170?text=${waMessage}`;
 
   return (
     <div className={darkMode ? "dark" : ""}>

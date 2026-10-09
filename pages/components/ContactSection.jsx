@@ -21,9 +21,9 @@ export default function ContactSection({ waLink }) {
               <BsWhatsapp className="text-2xl" /> Chat WhatsApp Langsung
             </a>
             <div className="flex gap-4 pt-2 text-2xl text-slate-600 dark:text-slate-400">
-              <a href="https://instagram.com/[ISI: username]" target="_blank" rel="noopener noreferrer" className="hover:text-teal-600"><AiFillInstagram /></a>
-              <a href="https://linkedin.com/in/[ISI: username]" target="_blank" rel="noopener noreferrer" className="hover:text-teal-600"><AiFillLinkedin /></a>
-              <a href="https://github.com/[ISI: username]" target="_blank" rel="noopener noreferrer" className="hover:text-teal-600"><AiFillGithub /></a>
+              <a href="https://www.instagram.com/bintang_fauzan14?igsh=NGpxb3JieW50ODFt" target="_blank" rel="noopener noreferrer" className="hover:text-teal-600"><AiFillInstagram /></a>
+              <a href="https://www.linkedin.com/in/bintang-fauzan-62a760203" target="_blank" rel="noopener noreferrer" className="hover:text-teal-600"><AiFillLinkedin /></a>
+              <a href="https://github.com/BintangFauzan" target="_blank" rel="noopener noreferrer" className="hover:text-teal-600"><AiFillGithub /></a>
             </div>
           </div>
         </div>
